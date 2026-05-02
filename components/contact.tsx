@@ -64,7 +64,7 @@ export function Contact() {
                   <span className="text-card-foreground">+91 7904836356</span>
                 </div>
 <div>
-                <a href="https://www.linkedin.com/in/narendra-kumar-920a13222/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                <a target="new" href="https://www.linkedin.com/in/narendra-kumar-920a13222/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
                   <div className="flex items-center gap-3 cursor-pointer">
                     <Linkedin className="h-5 w-5 text-primary" />
                     <span className="text-card-foreground">
